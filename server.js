@@ -6,7 +6,7 @@ app.set("view engine", "ejs");
 app.use(express.static('./app/public'));
 
 app.get("/", function(req, res){
-    res.render("index");
+    res.render("pages/index");
 })
 
 app.listen(8080);
