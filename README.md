@@ -9,12 +9,12 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/MiguelMarcola/github-explorer?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/MiguelMarcola/bwi-landing-page?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/MiguelMarcola/github-explorer">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/MiguelMarcola/bwi-landing-page">
   
-  <a href="https://github.com/MiguelMarcola/github-explorer/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MiguelMarcola/github-explorer">
+  <a href="https://github.com/MiguelMarcola/bwi-landing-page/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MiguelMarcola/bwi-landing-page">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -44,7 +44,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   Express
 -   CSS
 
-> Veja o arquivo  [package.json](https://github.com/MiguelMarcola/github-explorer/blob/main/package.json)
+> Veja o arquivo  [package.json](https://github.com/MiguelMarcola/bwi-landing-page/blob/main/package.json)
 
 ## 🦸 Autor
 
