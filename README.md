@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    
+    Criação da landing page da empresa usando node.js com ejs.
 </h3>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## 💻 Sobre o projeto
 
-Github Explorer - é uma aplicação desenvolvida em ReactJS com Typescript que consome a API do Github e retorna meus diretórios e algumas informações de cada um deles.
+Esta é uma empresa do mercado financeiro, o projecto vai ser feito do princípio ao fim, incluindo toda a parte de design, assente num carácter mais futurista que faz ligação com a cultura da empresa.
 
 
 
