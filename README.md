@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-     BW Investimentos Landing Page
+     L&C Investimentos Landing Page
 </h1>
 
 <h3 align="center">
